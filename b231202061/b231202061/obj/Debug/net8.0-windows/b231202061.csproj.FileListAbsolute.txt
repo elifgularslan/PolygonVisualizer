@@ -1,0 +1,32 @@
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\bin\Debug\net8.0-windows\b231202061.exe
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\bin\Debug\net8.0-windows\b231202061.deps.json
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\bin\Debug\net8.0-windows\b231202061.runtimeconfig.json
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\bin\Debug\net8.0-windows\b231202061.dll
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\bin\Debug\net8.0-windows\b231202061.pdb
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.Form1.resources
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.csproj.GenerateResource.cache
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.AssemblyInfoInputs.cache
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.AssemblyInfo.cs
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.csproj.CoreCompileInputs.cache
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.dll
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\obj\Debug\net8.0-windows\refint\b231202061.dll
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.pdb
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.genruntimeconfig.cache
+C:\Users\ELİF\OneDrive\Desktop\b231202061\b231202061\b231202061\obj\Debug\net8.0-windows\ref\b231202061.dll
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\bin\Debug\net8.0-windows\b231202061.exe
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\bin\Debug\net8.0-windows\b231202061.deps.json
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\bin\Debug\net8.0-windows\b231202061.runtimeconfig.json
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\bin\Debug\net8.0-windows\b231202061.dll
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\bin\Debug\net8.0-windows\b231202061.pdb
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.Form1.resources
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.csproj.GenerateResource.cache
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.AssemblyInfoInputs.cache
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.AssemblyInfo.cs
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.csproj.CoreCompileInputs.cache
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.dll
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\obj\Debug\net8.0-windows\refint\b231202061.dll
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.pdb
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\obj\Debug\net8.0-windows\b231202061.genruntimeconfig.cache
+C:\Users\ELİF\OneDrive\Desktop\c# ödev\b231202061\b231202061\obj\Debug\net8.0-windows\ref\b231202061.dll
