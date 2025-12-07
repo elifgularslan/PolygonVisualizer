@@ -1,7 +1,7 @@
 # Polygon Visualizer (Çokgen Görselleştirici)
 
 
-## 🇬🇧 English
+## EN English
 
 ### 📘 About the Project
 This project was developed as a term assignment for the **SWE 104 Object Oriented Programming** course at **Sakarya University**.
